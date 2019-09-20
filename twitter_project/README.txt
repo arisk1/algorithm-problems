@@ -43,8 +43,6 @@ Iparxei ena arxeio recomenadation.txt me ta apotelesmata.
 
 Mesa se ola arxeia periexontai sxolia pou eksigoun ton kodika.
 
-PS:O KODIKAS EINAI LIGO AKATASTATOS.parakalo na deiksete katanoisi ipirxe poli piesh xronou.
-
 !!!gia na treksei to programma sto kommati clustering xreiazetai sto fakelo na periexetai to arxeio me ta tweets apo th deuterh ergasia mazi me to cluster conf episis apo th deuterh ergasia giati xrisimopoiuntai kai den perilambanontai sth grammh entolon otan ekteloumai to programma,episis to coin_queries,vader_lexicon!!!
 
 >>recommendation.cpp
